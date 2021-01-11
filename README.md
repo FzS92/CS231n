@@ -1,5 +1,5 @@
-# CS231n
-CS231n: Convolutional Neural Networks for Visual Recognition, Spring 2020.
+# CS231n: Convolutional Neural Networks for Visual Recognition
+Assignments of CS231n at Stanford University, Spring 2020.
 
 Please visit:
 http://cs231n.stanford.edu/
@@ -18,4 +18,4 @@ In assignment 1:
 
 4- Two-Layer Neural Network
 
-5- Higher Level Representations: Image Features 
+5- Higher Level Representations: Image Features, Oriented Gradients (HOG) and  color histogram.
