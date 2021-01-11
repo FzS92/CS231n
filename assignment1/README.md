@@ -27,9 +27,6 @@ Note 1. Please make sure that you work on the Colab notebooks in the order of th
 
 Note 2. Related to above, ensure you are periodically saving your notebook (File -> Save), and any edited .py files relevant to that notebook (i.e. by executing the last code cell) so that you don’t lose your progress if you step away from the assignment and the Colab VM disconnects.
 
-Once you have completed all Colab notebooks except collect_submission.ipynb, proceed to the submission instructions.
-Option B: Local Development
-
 Q1: k-Nearest Neighbor classifier (20 points)
 
 The notebook knn.ipynb will walk you through implementing the kNN classifier.
