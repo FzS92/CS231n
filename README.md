@@ -12,7 +12,7 @@ https://cs231n.github.io/
 
 These files are written in Google Colab.
 
-َََAssignment # 1: 
+Assignment # 1: 
 
 1- k-Nearest Neighbor classifier
 
