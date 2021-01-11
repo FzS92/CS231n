@@ -2,13 +2,17 @@
 Assignments of CS231n at Stanford University, Spring 2020.
 
 Please visit:
+
+
 http://cs231n.stanford.edu/
+
+
 https://cs231n.github.io/
 
 
 These files are written in Google Colab.
 
-In assignment 1: 
+َََAssignment # 1: 
 
 1- k-Nearest Neighbor classifier
 
