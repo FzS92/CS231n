@@ -2,9 +2,11 @@
 CS231n: Convolutional Neural Networks for Visual Recognition Spring 2020
 
 Please visit:
-https://cs231n.github.io/assignments2020/assignment1/
+http://cs231n.stanford.edu/
+https://cs231n.github.io/
 
-These files are for Google Colab.
+
+These files are written in Google Colab
 
 In assignment 1: 
 
