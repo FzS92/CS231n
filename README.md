@@ -23,3 +23,15 @@ Assignment # 1:
 4- Two-Layer Neural Network
 
 5- Higher Level Representations: Image Features, Oriented Gradients (HOG) and  color histogram.
+
+Assignment # 2: 
+
+1 - Fully-connected Neural Network
+
+2- Batch Normalization
+
+3- Dropout
+
+4- Convolutional Networks
+
+5- PyTorch / TensorFlow on CIFAR-10
