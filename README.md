@@ -35,3 +35,8 @@ Assignment # 2:
 4- Convolutional Networks
 
 5- PyTorch / TensorFlow on CIFAR-10
+
+Assignment # 3:
+
+Generative Adversarial Networks (GANs)
+
